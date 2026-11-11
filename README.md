@@ -1,10 +1,10 @@
-# SynapseX｜让脑电成为程序输入的仿真实验平台
+# SynapseX｜教育脑机接口、脑电编程与3D仿真实验
 
 > **把脑电条件写进程序，观察控制行为，用运行证据解释任务结果。**
 
-SynapseX 的核心是脑电输入、程序逻辑与控制行为之间的连接。学生可以用积木或 Python 编写脑电持续条件，让程序发出的控制指令驱动 3D 场景，并在支持自动检查的任务中核验运行行为。平台还提供相对本人基线的会话解读，以及依赖兼容设备的硬件编译与烧录路径。
+SynapseX 面向 STEAM 课堂、脑机接口入门与教育研究，将脑电输入、图形化编程、Python 程序、3D 任务、个人基线观察与学习回顾组织在同一平台。其差异化能力是**让脑电持续条件进入程序执行，用运行指令与规则解释场景结果**。平台另有 CPT、Stroop、N-back 键鼠行为任务，以及依赖兼容设备的硬件编译与烧录路径。
 
-*Educational BCI and EEG programming: connect sustained input conditions, Blockly/Python, runtime commands and observable 3D simulation.*
+*Educational brain-computer interface (BCI) and EEG programming with Blockly, Python, 3D simulation, personal-baseline session review, cognitive tasks and compatible Arduino practice.*
 
 [阅读公开版 PDF](project-overview.pdf) · [下载可编辑 PPT](project-overview.pptx)
 
@@ -30,6 +30,25 @@ SynapseX 的核心是脑电输入、程序逻辑与控制行为之间的连接�
 **个人基线解读**提供相对本人静息基线的会话参考，供观察与回顾；缺少基线或有效数据时保留空态。它与程序中的控制目标分别配置，面向教育与研究。
 
 实时采集依赖兼容设备和持续数据流；仿真 Python 与硬件固件是各自的执行路径。硬件实践需匹配的设备、固件、工具链与本机桥，物理执行效果须另行验证。
+
+## 能完成哪些工作
+
+| 工作场景 | 展示的能力 | 相关技术与术语 |
+| --- | --- | --- |
+| 图形化编程与代码学习 | Blockly 经中间表示形成 Python 程序，让脑电持续条件进入程序逻辑。 | Visual programming · EEG programming · Python |
+| 3D 仿真与任务闯关 | 程序发出控制指令，场景按规则反馈；支持任务提供自动检查，其他部分由教师复核。 | 3D simulation · Task-based learning |
+| 本人基线与学习报告 | 相对本人静息基线回顾会话变化、学习记录和周期报告；数据不足时保留空态。 | Personal baseline · Session review · Learning records |
+| 行为任务与实验入门 | CPT、Stroop、N-back 记录键鼠作答和反应时，这条路径不读取头环脑电。 | Cognitive tasks · CPT · Stroop · N-back |
+| 硬件与嵌入式实践 | 在兼容条件下编译、校验与烧录 Arduino 固件；实际物理执行效果另行验证。 | Arduino · Firmware · Embedded systems |
+| STEAM 课堂活动 | 连接信号观察、程序设计、运行解释、任务闯关与教师反馈。 | Educational BCI · STEM / STEAM education |
+
+行为任务和本人基线用于教育研究及个人历史回顾，不提供临床常模、医学诊断或疗效结论。程序控制目标与个人基线分别配置。
+
+## 按需求阅读公开资料
+
+- **脑电如何进入程序与场景**：PDF 第1–5页，查看输入、控制指令和任务规则。
+- **硬件实践条件**：PDF 第6页，了解固件、设备、工具链和本机桥要求。
+- **本人基线、学习报告与行为任务**：PDF 第7–10页，区分脑电会话与键鼠行为任务。
 
 ## 适合谁阅读
 
