@@ -4,7 +4,7 @@
 
 SynapseX 面向 STEAM 课堂、脑机接口入门与教育研究，将脑电输入、图形化编程、Python 程序、3D 任务、个人基线观察与学习回顾组织在同一平台。其差异化能力是**让脑电持续条件进入程序执行，用运行指令与规则解释场景结果**。平台另有 CPT、Stroop、N-back 键鼠行为任务，以及依赖兼容设备的硬件编译与烧录路径。
 
-*Educational brain-computer interface (BCI) and EEG programming with Blockly, Python, 3D simulation, personal-baseline session review, cognitive tasks and compatible Arduino practice.*
+*Educational brain-computer interface (BCI) and EEG programming with Blockly visual programming, Python, 3D simulation, personal-baseline session review, cognitive tasks and compatible Arduino practice.*
 
 [阅读公开版 PDF](project-overview.pdf) · [下载可编辑 PPT](project-overview.pptx)
 
@@ -43,6 +43,15 @@ SynapseX 面向 STEAM 课堂、脑机接口入门与教育研究，将脑电输�
 | STEAM 课堂活动 | 连接信号观察、程序设计、运行解释、任务闯关与教师反馈。 | Educational BCI · STEM / STEAM education |
 
 行为任务和本人基线用于教育研究及个人历史回顾，不提供临床常模、医学诊断或疗效结论。程序控制目标与个人基线分别配置。
+
+## 按脑机实验选择入口
+
+| 如果你在做 | 可以从哪里开始 | 公开 PDF |
+| --- | --- | --- |
+| **Blockly 脑电编程与 Python 实验** | 把持续脑电条件写进积木，生成 Python 并观察控制指令。在支持的任务中根据运行证据检查程序有没有使用输入。 | 第 2–5 页 |
+| **STEAM 脑机接口教学与 3D 仿真** | 用仿真输入练习控制逻辑，或按兼容设备条件接入实时脑电。在 3D 量杯任务里对照指令和场景反馈。 | 第 2–5、10 页 |
+| **个人静息基线与行为实验** | 回顾本人会话与静息基线。CPT、Stroop 和 N-back 独立记录键鼠作答与反应时。 | 第 7–9 页 |
+| **Arduino 固件编译与烧录** | 用兼容板型、固件和本机工具链完成硬件积木编译与烧录，再验证实际运行效果。 | 第 6 页 |
 
 ## 按需求阅读公开资料
 
